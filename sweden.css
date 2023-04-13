@@ -1,0 +1,122 @@
+.navmain{
+    height: 80px;
+    background-color: white;
+}
+.nav1{
+    margin-left: 25px;
+}
+.logo{
+    margin-left: 70px;
+   height: 29px;
+}
+.text1{
+    color: rgba(0,0,0,.7);
+}
+
+/* main image */
+.solar{
+    height: auto;
+    position: relative;
+    margin-bottom: 70px;
+
+}
+.navbar{
+    z-index: 10;
+}
+
+.navbar-collapse{
+    background-color: white;
+}
+.BackgroundImage, .BackgroundImage__Image {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.solar img{
+     width: 100%;
+     display: block;
+}
+.text{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-weight: 600;
+    font-size: 3vw;
+    color: aliceblue;
+    
+}
+/* main image end */
+
+/* starting text */
+
+#starttext{
+    margin-bottom: 60px;
+}
+
+#stext{
+    font-size: 23px;
+}
+
+/* starting text end */
+
+/* yellow card */
+
+#yellowcard{
+    margin-bottom: 70px;
+}
+#firstcard{
+    height: 270px;
+    margin-bottom: 20px;
+}
+#secondcard{
+    height: 270px;
+    margin-bottom: 20px;
+}
+#thirdcard{
+    height: 270px;
+    margin-bottom: 20px;
+}
+
+
+/* yellow card end */
+
+.cardsection{
+    margin-bottom: 50px;
+}
+.moodcard{
+    background-color: #f5f5f5; border: none; border-radius: 0%;
+}
+.imageside{
+    border-radius: 0;
+}
+.bodypad{
+    padding: 35px;
+}
+.titlelook{
+    font-size: 30px; color: #000000B3; font-weight: 700;
+}
+.smalltext{
+    color: #000000B3;
+}
+.buttoncool{
+    border-radius: 0%; font-size: 14px; font-weight: 600; padding: 14px; padding-right: 25px;
+}
+.rowcon{
+    margin-bottom: 70px;
+}
+.heading{
+    font-size: 18px; margin-bottom: 0;
+}
+
+
+
+/* row card */
+.rowscard{
+    border-radius: 0;  border: none; background-color: #e6e4e4; margin-bottom: 20px;
+}
